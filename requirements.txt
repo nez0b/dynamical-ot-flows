@@ -1,0 +1,10 @@
+numpy>=1.20.0
+matplotlib>=3.3.0
+scipy>=1.7.0
+torch>=2.1.0
+flow-matching
+tqdm
+jax>=0.4.0
+flax>=0.7.0
+optax>=0.1.5
+ott-jax>=0.4.2
